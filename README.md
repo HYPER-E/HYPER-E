@@ -1,9 +1,9 @@
-<img src="https://raw.githubusercontent.com/undefined/undefined/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/HYPER-E/HYPER-E/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/undefined/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/HYPER-E/count.svg?"  />
 </div>
 
 ###
@@ -26,6 +26,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
+
+###
+
+<h2 align="center">My Programing Languages / Frameworks</h2>
 
 ###
 
