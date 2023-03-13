@@ -1,6 +1,6 @@
 # 💫 About Me:
-<h1>Hi, Im Hyper From Tunisia</h1>
-<h1>Im currently Learning C++</h1>
+<h4>Hi, Im Hyper From Tunisia</h4>
+<h4>Im currently Learning C++</h4>
 
 
 
